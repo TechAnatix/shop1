@@ -54,3 +54,28 @@ Run this to build this project and host
   npm run build --force
 ```
 
+- [How to make admin on site](https://github.com/itfeelsharsh/shop/wiki)
+    
+
+## Screenshots
+
+![Home Page](https://github.com/TechAnatix/shop/blob/e5500ec843890a16e457362a65501717523a3101/Screenshot3.png)
+###
+![Login Page](https://github.com/TechAnatix/shop/blob/e5500ec843890a16e457362a65501717523a3101/Screenshot2.png)
+###
+![Product ShowCase](https://github.com/TechAnatix/shop/blob/e5500ec843890a16e457362a65501717523a3101/Screenshot1.png)
+
+
+
+## How to make Admin on site
+
+first login with email and password on login page(choose hard password :D)
+
+###
+go to firebase firestore of your project
+
+###
+edit the user type from USER to ADMIN
+
+
+![Admin panale](https://github.com/TechAnatix/shop/blob/e5500ec843890a16e457362a65501717523a3101/Screenshot4.png)
