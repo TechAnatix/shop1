@@ -56,11 +56,11 @@ Run this to build this project and host
 
 ## Screenshots
 
-![Home Page](https://github.com/TechAnatix/shop/blob/e5500ec843890a16e457362a65501717523a3101/Screenshot3.png)
+![Home Page](https://github.com/TechAnatix/shop1/blob/36d289950091fa90bfa6e1225825517cbddad460/Screenshot3.png)
 ###
-![Login Page](https://github.com/TechAnatix/shop/blob/e5500ec843890a16e457362a65501717523a3101/Screenshot2.png)
+![Login Page](https://github.com/TechAnatix/shop1/blob/36d289950091fa90bfa6e1225825517cbddad460/Screenshot2.png)
 ###
-![Product ShowCase](https://github.com/TechAnatix/shop/blob/e5500ec843890a16e457362a65501717523a3101/Screenshot1.png)
+![Product ShowCase](https://github.com/TechAnatix/shop1/blob/36d289950091fa90bfa6e1225825517cbddad460/Screenshot1.png)
 
 
 
@@ -75,4 +75,4 @@ go to firebase firestore of your project
 edit the user type from USER to ADMIN
 
 
-![Admin panale](https://github.com/TechAnatix/shop/blob/e5500ec843890a16e457362a65501717523a3101/Screenshot4.png)
+![Admin panale](https://github.com/TechAnatix/shop1/blob/36d289950091fa90bfa6e1225825517cbddad460/Screenshot4.png)
