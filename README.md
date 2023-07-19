@@ -54,19 +54,3 @@ Run this to build this project and host
   npm run build --force
 ```
 
-- [How to make admin on site](https://github.com/itfeelsharsh/shop/wiki)
-    
-
-## Screenshots
-
-![Home Page](https://raw.githubusercontent.com/itfeelsharsh/shop/main/screenshots/Screenshot%202021-12-30%20143419.png)
-###
-![Login Page](https://raw.githubusercontent.com/itfeelsharsh/shop/main/screenshots/Screenshot%202021-12-30%20143445.png)
-###
-![Product ShowCase](https://raw.githubusercontent.com/itfeelsharsh/shop/main/screenshots/Screenshot%202021-12-30%20143509.png)
-
-
-## Support
-
-Just open an issue <3
-
