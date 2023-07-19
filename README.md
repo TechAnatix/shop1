@@ -8,9 +8,6 @@
  - Basic Knowledge of React JS, HTML, CSS and JSON
 
 ### authors
-
- - meet [Julius Guevarra](https://github.com/jgudo)
- - helped in hosting [Samey](https://github.com/itfeelsharsh)
  - images copyright [ImagesBazaar](https://www.imagesbazaar.com/)
  - Website Hosting and Security [CloudFlare](https://www.cloudflare.com/)
  - github <3
